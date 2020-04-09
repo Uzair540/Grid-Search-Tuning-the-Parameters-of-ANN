@@ -1,4 +1,4 @@
-# Grid-Search-Tuning-the-Parameters-of-ANN
+# Grid Search Tuning the Parameters of ANN
 ## Implementing Deep Learning Algorithm of Tuning the Parameters of ANN
 ### How to Use Grid Search in scikit-learn
 ##### Grid search is a model hyperparameter optimization technique.
